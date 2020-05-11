@@ -18,7 +18,7 @@ Divided to different categories as well
 2.	Income
 https://api.census.gov/data/2016/acs/acs1/groups/B19013.html
 Look for median income and some other income categories
-	Assigned to: Patrik 08/31/19
+	Assigned to: Patrick 08/31/19
 	Expected: Dataframe from 2007 to 2017 for all zip codes
 
 3.	Population
@@ -36,7 +36,7 @@ Also look at educational attainment meaning the degrees they hold
 May go to different API source
 
 6.	Employment status
-	Assigned to Patrik 09/02/2019
+	Assigned to Patrick 09/02/2019
 
 7.	Household types
 https://api.census.gov/data/2016/acs/acs1/groups/B11001.html
@@ -45,8 +45,9 @@ https://api.census.gov/data/2016/acs/acs1/groups/B11001.html
 8.	Travel time to work
 https://api.census.gov/data/2016/acs/acs1/groups/B08303.html
 https://api.census.gov/data/2016/acs/acs1/groups/B08135.html
-	Assigned to Patrik 09/02/2019
+	Assigned to Patrick 09/02/2019
 
 9.	Poverty
 https://api.census.gov/data/2016/acs/acs1/groups/B07012.html
+	Assigned to Eva 09/02/2019
 
